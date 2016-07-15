@@ -25,7 +25,6 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     
-    
     _username = [[UITextField alloc] init];
     _username.frame = CGRectMake(100, 80, 300, 20);
     _username.placeholder = @"用户名";
