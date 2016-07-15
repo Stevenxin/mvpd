@@ -1,8 +1,8 @@
-# mvp
+# MVPD
 
-Model-View-Presenter
+Model-View-Presenter-Delegate
 
-![image](https://raw.githubusercontent.com/YFSS/mvp-demo/master/mvp.jpg)
+![image](https://raw.githubusercontent.com/YFSS/mvpd-demo/master/mvp.jpg)
 
 参考借鉴 Android 的 MVP 思想设计[具体看这里](https://github.com/konmik/konmik.github.io/wiki/Introduction-to-Model-View-Presenter-on-Android)
 
