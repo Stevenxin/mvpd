@@ -41,6 +41,8 @@
     table.dataSource = _presenter;
     
     [_presenter loadData];
+    
+    [table reloadData];
 }
 
 

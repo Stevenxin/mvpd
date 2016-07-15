@@ -7,21 +7,27 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		8FB3550D1D3892B7006F1E44 /* User.m in Sources */ = {isa = PBXBuildFile; fileRef = 8FB354F91D3892B7006F1E44 /* User.m */; };
-		8FB3550E1D3892B7006F1E44 /* User.m in Sources */ = {isa = PBXBuildFile; fileRef = 8FB354F91D3892B7006F1E44 /* User.m */; };
-		8FB3550F1D3892B7006F1E44 /* User.m in Sources */ = {isa = PBXBuildFile; fileRef = 8FB354F91D3892B7006F1E44 /* User.m */; };
-		8FB355101D3892B7006F1E44 /* LoginViewControllerPresenter.m in Sources */ = {isa = PBXBuildFile; fileRef = 8FB354FC1D3892B7006F1E44 /* LoginViewControllerPresenter.m */; };
-		8FB355111D3892B7006F1E44 /* LoginViewControllerPresenter.m in Sources */ = {isa = PBXBuildFile; fileRef = 8FB354FC1D3892B7006F1E44 /* LoginViewControllerPresenter.m */; };
-		8FB355121D3892B7006F1E44 /* LoginViewControllerPresenter.m in Sources */ = {isa = PBXBuildFile; fileRef = 8FB354FC1D3892B7006F1E44 /* LoginViewControllerPresenter.m */; };
-		8FB355131D3892B7006F1E44 /* LoginViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8FB354FF1D3892B7006F1E44 /* LoginViewController.m */; };
-		8FB355141D3892B7006F1E44 /* LoginViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8FB354FF1D3892B7006F1E44 /* LoginViewController.m */; };
-		8FB355151D3892B7006F1E44 /* LoginViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8FB354FF1D3892B7006F1E44 /* LoginViewController.m */; };
-		8FB355211D389317006F1E44 /* MainViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8FB355201D389317006F1E44 /* MainViewController.m */; };
-		8FB355221D389317006F1E44 /* MainViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8FB355201D389317006F1E44 /* MainViewController.m */; };
-		8FB355231D389317006F1E44 /* MainViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8FB355201D389317006F1E44 /* MainViewController.m */; };
-		8FB355261D389334006F1E44 /* MainViewControllerPresenter.m in Sources */ = {isa = PBXBuildFile; fileRef = 8FB355251D389334006F1E44 /* MainViewControllerPresenter.m */; };
-		8FB355271D389334006F1E44 /* MainViewControllerPresenter.m in Sources */ = {isa = PBXBuildFile; fileRef = 8FB355251D389334006F1E44 /* MainViewControllerPresenter.m */; };
-		8FB355281D389334006F1E44 /* MainViewControllerPresenter.m in Sources */ = {isa = PBXBuildFile; fileRef = 8FB355251D389334006F1E44 /* MainViewControllerPresenter.m */; };
+		8F241A411D38C1EE00FB7902 /* User.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F241A2B1D38C1EE00FB7902 /* User.m */; };
+		8F241A421D38C1EE00FB7902 /* User.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F241A2B1D38C1EE00FB7902 /* User.m */; };
+		8F241A431D38C1EE00FB7902 /* User.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F241A2B1D38C1EE00FB7902 /* User.m */; };
+		8F241A441D38C1EE00FB7902 /* LoginViewControllerPresenter.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F241A2E1D38C1EE00FB7902 /* LoginViewControllerPresenter.m */; };
+		8F241A451D38C1EE00FB7902 /* LoginViewControllerPresenter.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F241A2E1D38C1EE00FB7902 /* LoginViewControllerPresenter.m */; };
+		8F241A461D38C1EE00FB7902 /* LoginViewControllerPresenter.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F241A2E1D38C1EE00FB7902 /* LoginViewControllerPresenter.m */; };
+		8F241A471D38C1EE00FB7902 /* LoginViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F241A311D38C1EE00FB7902 /* LoginViewController.m */; };
+		8F241A481D38C1EE00FB7902 /* LoginViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F241A311D38C1EE00FB7902 /* LoginViewController.m */; };
+		8F241A491D38C1EE00FB7902 /* LoginViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F241A311D38C1EE00FB7902 /* LoginViewController.m */; };
+		8F241A4A1D38C1EE00FB7902 /* Item.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F241A381D38C1EE00FB7902 /* Item.m */; };
+		8F241A4B1D38C1EE00FB7902 /* Item.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F241A381D38C1EE00FB7902 /* Item.m */; };
+		8F241A4C1D38C1EE00FB7902 /* Item.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F241A381D38C1EE00FB7902 /* Item.m */; };
+		8F241A4D1D38C1EE00FB7902 /* MainViewControllerPresenter.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F241A3B1D38C1EE00FB7902 /* MainViewControllerPresenter.m */; };
+		8F241A4E1D38C1EE00FB7902 /* MainViewControllerPresenter.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F241A3B1D38C1EE00FB7902 /* MainViewControllerPresenter.m */; };
+		8F241A4F1D38C1EE00FB7902 /* MainViewControllerPresenter.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F241A3B1D38C1EE00FB7902 /* MainViewControllerPresenter.m */; };
+		8F241A501D38C1EE00FB7902 /* ItemTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F241A3E1D38C1EE00FB7902 /* ItemTableViewCell.m */; };
+		8F241A511D38C1EE00FB7902 /* ItemTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F241A3E1D38C1EE00FB7902 /* ItemTableViewCell.m */; };
+		8F241A521D38C1EE00FB7902 /* ItemTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F241A3E1D38C1EE00FB7902 /* ItemTableViewCell.m */; };
+		8F241A531D38C1EE00FB7902 /* MainViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F241A401D38C1EE00FB7902 /* MainViewController.m */; };
+		8F241A541D38C1EE00FB7902 /* MainViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F241A401D38C1EE00FB7902 /* MainViewController.m */; };
+		8F241A551D38C1EE00FB7902 /* MainViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F241A401D38C1EE00FB7902 /* MainViewController.m */; };
 		8FCB68431D388A19003D6235 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 8FCB68421D388A19003D6235 /* main.m */; };
 		8FCB68461D388A19003D6235 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 8FCB68451D388A19003D6235 /* AppDelegate.m */; };
 		8FCB68491D388A19003D6235 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8FCB68481D388A19003D6235 /* ViewController.m */; };
@@ -30,8 +36,6 @@
 		8FCB68511D388A19003D6235 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8FCB684F1D388A19003D6235 /* LaunchScreen.storyboard */; };
 		8FCB685C1D388A19003D6235 /* mvpTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 8FCB685B1D388A19003D6235 /* mvpTests.m */; };
 		8FCB68671D388A19003D6235 /* mvpUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 8FCB68661D388A19003D6235 /* mvpUITests.m */; };
-		8FFC4FA41D3899A10085B77C /* Item.m in Sources */ = {isa = PBXBuildFile; fileRef = 8FFC4FA31D3899A10085B77C /* Item.m */; };
-		8FFC4FA71D3899FE0085B77C /* ItemTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 8FFC4FA61D3899FE0085B77C /* ItemTableViewCell.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -52,20 +56,24 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		8FB354F51D3892B7006F1E44 /* LoginViewControllerDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LoginViewControllerDelegate.h; sourceTree = "<group>"; };
-		8FB354F61D3892B7006F1E44 /* LoginViewControllerPresenterDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LoginViewControllerPresenterDelegate.h; sourceTree = "<group>"; };
-		8FB354F81D3892B7006F1E44 /* User.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = User.h; sourceTree = "<group>"; };
-		8FB354F91D3892B7006F1E44 /* User.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = User.m; sourceTree = "<group>"; };
-		8FB354FB1D3892B7006F1E44 /* LoginViewControllerPresenter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LoginViewControllerPresenter.h; sourceTree = "<group>"; };
-		8FB354FC1D3892B7006F1E44 /* LoginViewControllerPresenter.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LoginViewControllerPresenter.m; sourceTree = "<group>"; };
-		8FB354FE1D3892B7006F1E44 /* LoginViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LoginViewController.h; sourceTree = "<group>"; };
-		8FB354FF1D3892B7006F1E44 /* LoginViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LoginViewController.m; sourceTree = "<group>"; };
-		8FB3551F1D389317006F1E44 /* MainViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MainViewController.h; sourceTree = "<group>"; };
-		8FB355201D389317006F1E44 /* MainViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MainViewController.m; sourceTree = "<group>"; };
-		8FB355241D389334006F1E44 /* MainViewControllerPresenter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MainViewControllerPresenter.h; sourceTree = "<group>"; };
-		8FB355251D389334006F1E44 /* MainViewControllerPresenter.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MainViewControllerPresenter.m; sourceTree = "<group>"; };
-		8FB355291D38934A006F1E44 /* MainViewControllerPresenterDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MainViewControllerPresenterDelegate.h; sourceTree = "<group>"; };
-		8FB3552A1D38935A006F1E44 /* MainViewControllerDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MainViewControllerDelegate.h; sourceTree = "<group>"; };
+		8F241A271D38C1EE00FB7902 /* LoginViewControllerDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LoginViewControllerDelegate.h; sourceTree = "<group>"; };
+		8F241A281D38C1EE00FB7902 /* LoginViewControllerPresenterDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LoginViewControllerPresenterDelegate.h; sourceTree = "<group>"; };
+		8F241A2A1D38C1EE00FB7902 /* User.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = User.h; sourceTree = "<group>"; };
+		8F241A2B1D38C1EE00FB7902 /* User.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = User.m; sourceTree = "<group>"; };
+		8F241A2D1D38C1EE00FB7902 /* LoginViewControllerPresenter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LoginViewControllerPresenter.h; sourceTree = "<group>"; };
+		8F241A2E1D38C1EE00FB7902 /* LoginViewControllerPresenter.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LoginViewControllerPresenter.m; sourceTree = "<group>"; };
+		8F241A301D38C1EE00FB7902 /* LoginViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LoginViewController.h; sourceTree = "<group>"; };
+		8F241A311D38C1EE00FB7902 /* LoginViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LoginViewController.m; sourceTree = "<group>"; };
+		8F241A341D38C1EE00FB7902 /* MainViewControllerDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MainViewControllerDelegate.h; sourceTree = "<group>"; };
+		8F241A351D38C1EE00FB7902 /* MainViewControllerPresenterDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MainViewControllerPresenterDelegate.h; sourceTree = "<group>"; };
+		8F241A371D38C1EE00FB7902 /* Item.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Item.h; sourceTree = "<group>"; };
+		8F241A381D38C1EE00FB7902 /* Item.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Item.m; sourceTree = "<group>"; };
+		8F241A3A1D38C1EE00FB7902 /* MainViewControllerPresenter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MainViewControllerPresenter.h; sourceTree = "<group>"; };
+		8F241A3B1D38C1EE00FB7902 /* MainViewControllerPresenter.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MainViewControllerPresenter.m; sourceTree = "<group>"; };
+		8F241A3D1D38C1EE00FB7902 /* ItemTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ItemTableViewCell.h; sourceTree = "<group>"; };
+		8F241A3E1D38C1EE00FB7902 /* ItemTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ItemTableViewCell.m; sourceTree = "<group>"; };
+		8F241A3F1D38C1EE00FB7902 /* MainViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MainViewController.h; sourceTree = "<group>"; };
+		8F241A401D38C1EE00FB7902 /* MainViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MainViewController.m; sourceTree = "<group>"; };
 		8FCB683E1D388A19003D6235 /* mvp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = mvp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8FCB68421D388A19003D6235 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		8FCB68441D388A19003D6235 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -82,10 +90,6 @@
 		8FCB68621D388A19003D6235 /* mvpUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = mvpUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8FCB68661D388A19003D6235 /* mvpUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = mvpUITests.m; sourceTree = "<group>"; };
 		8FCB68681D388A19003D6235 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		8FFC4FA21D3899A10085B77C /* Item.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Item.h; sourceTree = "<group>"; };
-		8FFC4FA31D3899A10085B77C /* Item.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Item.m; sourceTree = "<group>"; };
-		8FFC4FA51D3899FE0085B77C /* ItemTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ItemTableViewCell.h; sourceTree = "<group>"; };
-		8FFC4FA61D3899FE0085B77C /* ItemTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ItemTableViewCell.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -113,98 +117,107 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		8FB354F31D3892B7006F1E44 /* login */ = {
+		8F241A241D38C1EE00FB7902 /* mvp */ = {
 			isa = PBXGroup;
 			children = (
-				8FB354F41D3892B7006F1E44 /* delegate */,
-				8FB354F71D3892B7006F1E44 /* model */,
-				8FB354FA1D3892B7006F1E44 /* presenter */,
-				8FB354FD1D3892B7006F1E44 /* view */,
+				8F241A251D38C1EE00FB7902 /* login */,
+				8F241A321D38C1EE00FB7902 /* main */,
+			);
+			path = mvp;
+			sourceTree = "<group>";
+		};
+		8F241A251D38C1EE00FB7902 /* login */ = {
+			isa = PBXGroup;
+			children = (
+				8F241A261D38C1EE00FB7902 /* delegate */,
+				8F241A291D38C1EE00FB7902 /* model */,
+				8F241A2C1D38C1EE00FB7902 /* presenter */,
+				8F241A2F1D38C1EE00FB7902 /* view */,
 			);
 			path = login;
 			sourceTree = "<group>";
 		};
-		8FB354F41D3892B7006F1E44 /* delegate */ = {
+		8F241A261D38C1EE00FB7902 /* delegate */ = {
 			isa = PBXGroup;
 			children = (
-				8FB354F51D3892B7006F1E44 /* LoginViewControllerDelegate.h */,
-				8FB354F61D3892B7006F1E44 /* LoginViewControllerPresenterDelegate.h */,
+				8F241A271D38C1EE00FB7902 /* LoginViewControllerDelegate.h */,
+				8F241A281D38C1EE00FB7902 /* LoginViewControllerPresenterDelegate.h */,
 			);
 			path = delegate;
 			sourceTree = "<group>";
 		};
-		8FB354F71D3892B7006F1E44 /* model */ = {
+		8F241A291D38C1EE00FB7902 /* model */ = {
 			isa = PBXGroup;
 			children = (
-				8FB354F81D3892B7006F1E44 /* User.h */,
-				8FB354F91D3892B7006F1E44 /* User.m */,
+				8F241A2A1D38C1EE00FB7902 /* User.h */,
+				8F241A2B1D38C1EE00FB7902 /* User.m */,
 			);
 			path = model;
 			sourceTree = "<group>";
 		};
-		8FB354FA1D3892B7006F1E44 /* presenter */ = {
+		8F241A2C1D38C1EE00FB7902 /* presenter */ = {
 			isa = PBXGroup;
 			children = (
-				8FB354FB1D3892B7006F1E44 /* LoginViewControllerPresenter.h */,
-				8FB354FC1D3892B7006F1E44 /* LoginViewControllerPresenter.m */,
+				8F241A2D1D38C1EE00FB7902 /* LoginViewControllerPresenter.h */,
+				8F241A2E1D38C1EE00FB7902 /* LoginViewControllerPresenter.m */,
 			);
 			path = presenter;
 			sourceTree = "<group>";
 		};
-		8FB354FD1D3892B7006F1E44 /* view */ = {
+		8F241A2F1D38C1EE00FB7902 /* view */ = {
 			isa = PBXGroup;
 			children = (
-				8FB354FE1D3892B7006F1E44 /* LoginViewController.h */,
-				8FB354FF1D3892B7006F1E44 /* LoginViewController.m */,
+				8F241A301D38C1EE00FB7902 /* LoginViewController.h */,
+				8F241A311D38C1EE00FB7902 /* LoginViewController.m */,
 			);
 			path = view;
 			sourceTree = "<group>";
 		};
-		8FB355001D3892B7006F1E44 /* main */ = {
+		8F241A321D38C1EE00FB7902 /* main */ = {
 			isa = PBXGroup;
 			children = (
-				8FB355011D3892B7006F1E44 /* delegate */,
-				8FB355041D3892B7006F1E44 /* model */,
-				8FB355071D3892B7006F1E44 /* presenter */,
-				8FB3550A1D3892B7006F1E44 /* view */,
+				8F241A331D38C1EE00FB7902 /* delegate */,
+				8F241A361D38C1EE00FB7902 /* model */,
+				8F241A391D38C1EE00FB7902 /* presenter */,
+				8F241A3C1D38C1EE00FB7902 /* view */,
 			);
 			path = main;
 			sourceTree = "<group>";
 		};
-		8FB355011D3892B7006F1E44 /* delegate */ = {
+		8F241A331D38C1EE00FB7902 /* delegate */ = {
 			isa = PBXGroup;
 			children = (
-				8FB355291D38934A006F1E44 /* MainViewControllerPresenterDelegate.h */,
-				8FB3552A1D38935A006F1E44 /* MainViewControllerDelegate.h */,
+				8F241A341D38C1EE00FB7902 /* MainViewControllerDelegate.h */,
+				8F241A351D38C1EE00FB7902 /* MainViewControllerPresenterDelegate.h */,
 			);
 			path = delegate;
 			sourceTree = "<group>";
 		};
-		8FB355041D3892B7006F1E44 /* model */ = {
+		8F241A361D38C1EE00FB7902 /* model */ = {
 			isa = PBXGroup;
 			children = (
-				8FFC4FA21D3899A10085B77C /* Item.h */,
-				8FFC4FA31D3899A10085B77C /* Item.m */,
+				8F241A371D38C1EE00FB7902 /* Item.h */,
+				8F241A381D38C1EE00FB7902 /* Item.m */,
 			);
 			path = model;
 			sourceTree = "<group>";
 		};
-		8FB355071D3892B7006F1E44 /* presenter */ = {
+		8F241A391D38C1EE00FB7902 /* presenter */ = {
 			isa = PBXGroup;
 			children = (
-				8FB355241D389334006F1E44 /* MainViewControllerPresenter.h */,
-				8FB355251D389334006F1E44 /* MainViewControllerPresenter.m */,
+				8F241A3A1D38C1EE00FB7902 /* MainViewControllerPresenter.h */,
+				8F241A3B1D38C1EE00FB7902 /* MainViewControllerPresenter.m */,
 			);
 			path = presenter;
 			sourceTree = "<group>";
 		};
-		8FB3550A1D3892B7006F1E44 /* view */ = {
+		8F241A3C1D38C1EE00FB7902 /* view */ = {
 			isa = PBXGroup;
 			children = (
-				8FB3551F1D389317006F1E44 /* MainViewController.h */,
-				8FB355201D389317006F1E44 /* MainViewController.m */,
-				8FFC4FA51D3899FE0085B77C /* ItemTableViewCell.h */,
-				8FFC4FA61D3899FE0085B77C /* ItemTableViewCell.m */,
+				8F241A3D1D38C1EE00FB7902 /* ItemTableViewCell.h */,
+				8F241A3E1D38C1EE00FB7902 /* ItemTableViewCell.m */,
+				8F241A3F1D38C1EE00FB7902 /* MainViewController.h */,
+				8F241A401D38C1EE00FB7902 /* MainViewController.m */,
 			);
 			path = view;
 			sourceTree = "<group>";
@@ -232,7 +245,7 @@
 		8FCB68401D388A19003D6235 /* mvp */ = {
 			isa = PBXGroup;
 			children = (
-				8FCB68741D388A58003D6235 /* mvp */,
+				8F241A241D38C1EE00FB7902 /* mvp */,
 				8FCB68441D388A19003D6235 /* AppDelegate.h */,
 				8FCB68451D388A19003D6235 /* AppDelegate.m */,
 				8FCB68471D388A19003D6235 /* ViewController.h */,
@@ -270,15 +283,6 @@
 				8FCB68681D388A19003D6235 /* Info.plist */,
 			);
 			path = mvpUITests;
-			sourceTree = "<group>";
-		};
-		8FCB68741D388A58003D6235 /* mvp */ = {
-			isa = PBXGroup;
-			children = (
-				8FB354F31D3892B7006F1E44 /* login */,
-				8FB355001D3892B7006F1E44 /* main */,
-			);
-			path = mvp;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -411,15 +415,15 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				8FFC4FA41D3899A10085B77C /* Item.m in Sources */,
-				8FB355101D3892B7006F1E44 /* LoginViewControllerPresenter.m in Sources */,
-				8FFC4FA71D3899FE0085B77C /* ItemTableViewCell.m in Sources */,
-				8FB3550D1D3892B7006F1E44 /* User.m in Sources */,
-				8FB355131D3892B7006F1E44 /* LoginViewController.m in Sources */,
+				8F241A501D38C1EE00FB7902 /* ItemTableViewCell.m in Sources */,
+				8F241A441D38C1EE00FB7902 /* LoginViewControllerPresenter.m in Sources */,
+				8F241A411D38C1EE00FB7902 /* User.m in Sources */,
+				8F241A531D38C1EE00FB7902 /* MainViewController.m in Sources */,
+				8F241A471D38C1EE00FB7902 /* LoginViewController.m in Sources */,
 				8FCB68491D388A19003D6235 /* ViewController.m in Sources */,
-				8FB355261D389334006F1E44 /* MainViewControllerPresenter.m in Sources */,
-				8FB355211D389317006F1E44 /* MainViewController.m in Sources */,
+				8F241A4D1D38C1EE00FB7902 /* MainViewControllerPresenter.m in Sources */,
 				8FCB68461D388A19003D6235 /* AppDelegate.m in Sources */,
+				8F241A4A1D38C1EE00FB7902 /* Item.m in Sources */,
 				8FCB68431D388A19003D6235 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -428,11 +432,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				8FB355141D3892B7006F1E44 /* LoginViewController.m in Sources */,
-				8FB355111D3892B7006F1E44 /* LoginViewControllerPresenter.m in Sources */,
-				8FB3550E1D3892B7006F1E44 /* User.m in Sources */,
-				8FB355221D389317006F1E44 /* MainViewController.m in Sources */,
-				8FB355271D389334006F1E44 /* MainViewControllerPresenter.m in Sources */,
+				8F241A4B1D38C1EE00FB7902 /* Item.m in Sources */,
+				8F241A481D38C1EE00FB7902 /* LoginViewController.m in Sources */,
+				8F241A451D38C1EE00FB7902 /* LoginViewControllerPresenter.m in Sources */,
+				8F241A541D38C1EE00FB7902 /* MainViewController.m in Sources */,
+				8F241A421D38C1EE00FB7902 /* User.m in Sources */,
+				8F241A4E1D38C1EE00FB7902 /* MainViewControllerPresenter.m in Sources */,
+				8F241A511D38C1EE00FB7902 /* ItemTableViewCell.m in Sources */,
 				8FCB685C1D388A19003D6235 /* mvpTests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -441,11 +447,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				8FB355151D3892B7006F1E44 /* LoginViewController.m in Sources */,
-				8FB355121D3892B7006F1E44 /* LoginViewControllerPresenter.m in Sources */,
-				8FB3550F1D3892B7006F1E44 /* User.m in Sources */,
-				8FB355231D389317006F1E44 /* MainViewController.m in Sources */,
-				8FB355281D389334006F1E44 /* MainViewControllerPresenter.m in Sources */,
+				8F241A4C1D38C1EE00FB7902 /* Item.m in Sources */,
+				8F241A491D38C1EE00FB7902 /* LoginViewController.m in Sources */,
+				8F241A461D38C1EE00FB7902 /* LoginViewControllerPresenter.m in Sources */,
+				8F241A551D38C1EE00FB7902 /* MainViewController.m in Sources */,
+				8F241A431D38C1EE00FB7902 /* User.m in Sources */,
+				8F241A4F1D38C1EE00FB7902 /* MainViewControllerPresenter.m in Sources */,
+				8F241A521D38C1EE00FB7902 /* ItemTableViewCell.m in Sources */,
 				8FCB68671D388A19003D6235 /* mvpUITests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
