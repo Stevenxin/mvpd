@@ -42,8 +42,8 @@
 {
     [super layoutSubviews];
     
-    _name.frame = CGRectMake(10, 10, 300, 20);
-    _desc.frame = CGRectMake(10, 30, 300, 20);
+    _name.frame = CGRectMake(20, 10, 300, 20);
+    _desc.frame = CGRectMake(20, 30, 300, 20);
 }
 
 @end

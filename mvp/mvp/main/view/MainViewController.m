@@ -14,7 +14,9 @@
 
 @interface MainViewController ()<MainViewControllerDelegate>
 {
-    id<MainViewControllerPresenterDelegate, UITableViewDataSource, UITableViewDelegate> _presenter;
+    id<MainViewControllerPresenterDelegate,
+    UITableViewDataSource,
+    UITableViewDelegate> _presenter;
     User *_user;
 }
 @end
